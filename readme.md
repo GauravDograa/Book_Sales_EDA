@@ -44,31 +44,31 @@ The goal is to generate data-driven insights that can support decision-making in
 ## 📸 Visualization Preview
 
 ### 1️⃣ Publishing Year Distribution
-![Publishing Years](visuals/publishing_years.png)
+![Publishing Years](visuals/01_Distribution_Publishing_Year.png)
 
 ### 2️⃣ Number of Books per Genre
-![Books per Genre](visuals/books_per_genre.png)
+![Books per Genre](visuals/02_Books_Per_Genre.png)
 
 ### 3️⃣ Average Ratings by Genre
-![Ratings by Genre](visuals/ratings_by_genre.png)
+![Ratings by Genre](visuals/03_Books_Average_Ratings_By_Genre.png)
 
 ### 4️⃣ Sales Price vs Units Sold
-![Price vs Units Sold](visuals/price_vs_units_sold.png)
+![Price vs Units Sold](visuals/04_Sales_Price_Vs_Units_Sold.png)
 
 ### 5️⃣ Language Distribution
-![Language Distribution](visuals/language_distribution.png)
+![Language Distribution](visuals/05_Books_Distribution_By_Language.png)
 
 ### 6️⃣ Rating vs Ratings Count
-![Rating vs Rating Count](visuals/rating_vs_rating_count.png)
+![Rating vs Rating Count](visuals/06_Book_Average_Rating_Vs_Book_Ratings_Count.png)
 
 ### 7️⃣ Top Gross Sales by Author
-![Top Authors Sales](visuals/top_authors_sales.png)
+![Top Authors Sales](visuals/07_Gross_Sales_Each_Author.png)
 
 ### 8️⃣ Units Sold by Author Rating
-![Units Sold by Author Rating](visuals/units_sold_by_author_rating.png)
+![Units Sold by Author Rating](visuals/08_Units_sold_By_Author_Rating.png)
 
 ### 9️⃣ Total Units Sold Over Publishing Years
-![Units Sold Over Years](visuals/units_sold_over_years.png)
+![Units Sold Over Years](visuals/09_Total_Units_Sold_By_Years.png)
 
 ---
 
