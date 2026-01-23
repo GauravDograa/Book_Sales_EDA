@@ -91,4 +91,5 @@ This project demonstrates end-to-end data analytics skills including:
 ---
 
 ## 📜 License
-MIT © Gaurav Dogra
+© 2026 GAURAV DOGRA
+
